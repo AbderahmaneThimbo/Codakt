@@ -3,7 +3,7 @@
 Codakt is a fully responsive online courses website template, designed to provide a seamless learning experience across all devices. Built with HTML, CSS, and JavaScript, this template is lightweight, modern, and easy to customize.
 <br />
 <br />
-<a href="https://ahmed-abd-alalim.github.io/Codakt/"><strong>➥ Live Demo</strong></a>
+<a href="https://abderahmanethimbo.github.io/Codakt/"><strong>➥ Live Demo</strong></a>
 <br />
 <br />
 </div>
